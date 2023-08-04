@@ -13,7 +13,7 @@ def time():
 
 label = Label(window, font=("arial", 40, "bold"),
             background="white",
-            foreground="DarkOrchid3")
+            foreground="black")
 
 label.pack(anchor="center")
 
